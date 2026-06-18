@@ -1,2 +1,2 @@
-libzbar0
-libzbar-dev
+pyzbar
+pillow
