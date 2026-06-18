@@ -1,1 +1,5 @@
 libzbar0
+   ```
+   pyzbar
+   pillow
+   ```
